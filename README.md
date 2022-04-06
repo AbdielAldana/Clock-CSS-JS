@@ -1,4 +1,3 @@
 CLOCK HTML CSS JS
 
-demo
-clock.abdielaldana.com
+[Demo Clock](https://clock.abdielaldana.com)
